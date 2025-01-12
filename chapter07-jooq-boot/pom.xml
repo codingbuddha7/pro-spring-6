@@ -159,6 +159,7 @@
                 </dependencies>
 
                 <configuration>
+                    <skip>true</skip>
                     <logging>WARN</logging>
                     <!-- Configure the database connection here -->
                     <jdbc>

@@ -19,10 +19,10 @@
         <spring-boot.version>3.1.1</spring-boot.version>
 
         <!-- Java version for non-Boot projects -->
-        <maven.compiler.source>19</maven.compiler.source>
-        <maven.compiler.target>19</maven.compiler.target>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
         <!--  Java version for Boot projects-->
-        <java.version>19</java.version>
+        <java.version>21</java.version>
 
         <build-helper-maven-plugin.version>3.3.0</build-helper-maven-plugin.version>
         <exec-maven-plugin.version>3.1.0</exec-maven-plugin.version>
@@ -32,7 +32,7 @@
         <maven-shade-plugin.version>3.5.0</maven-shade-plugin.version>
         <maven-surefire-plugin.version>3.1.2</maven-surefire-plugin.version>
         <jupiter.version>5.9.3</jupiter.version>
-        <kotlin.version>1.8.22</kotlin.version>
+        <kotlin.version>2.1.0</kotlin.version>
 
         <servletApi.version>6.0.0</servletApi.version>
         <thymeleaf.version>3.1.1.RELEASE</thymeleaf.version>
@@ -40,7 +40,7 @@
         <!-- utils -->
         <jackson.version>2.15.2</jackson.version>
         <commons-lang3.version>3.12.0</commons-lang3.version>
-        <lombok.version>1.18.28</lombok.version>
+        <lombok.version>1.18.30</lombok.version>
         <mockito.version>2.0.2-beta</mockito.version>
         <testcontainers.version>1.18.3</testcontainers.version>
         <jakarta.annotation.version>2.1.0</jakarta.annotation.version>
